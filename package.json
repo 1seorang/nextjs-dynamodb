@@ -2,6 +2,7 @@
   "name": "serverless-nextjs-aws-dynamodb-cognito",
   "version": "1.0.0",
   "description": "",
+  "private":true,
   "main": "index.js",
   "scripts": {
     "test": "pnpm test -r",
